@@ -1,0 +1,10 @@
+D:\Storage\Repos\GameTime\Data\bin\Debug\netstandard2.1\Data.deps.json
+D:\Storage\Repos\GameTime\Data\bin\Debug\netstandard2.1\Data.dll
+D:\Storage\Repos\GameTime\Data\bin\Debug\netstandard2.1\Data.pdb
+D:\Storage\Repos\GameTime\Data\obj\Debug\netstandard2.1\Data.csproj.AssemblyReference.cache
+D:\Storage\Repos\GameTime\Data\obj\Debug\netstandard2.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Storage\Repos\GameTime\Data\obj\Debug\netstandard2.1\Data.AssemblyInfoInputs.cache
+D:\Storage\Repos\GameTime\Data\obj\Debug\netstandard2.1\Data.AssemblyInfo.cs
+D:\Storage\Repos\GameTime\Data\obj\Debug\netstandard2.1\Data.csproj.CoreCompileInputs.cache
+D:\Storage\Repos\GameTime\Data\obj\Debug\netstandard2.1\Data.dll
+D:\Storage\Repos\GameTime\Data\obj\Debug\netstandard2.1\Data.pdb
